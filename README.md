@@ -28,7 +28,7 @@ The newest is **Black Friday 90% Off & Bonus Evaluations** from Upcomers — 90%
 - Firms: 36
 - Firms with a code in the 2025 season: 35
 - Newest deal: 2026-09-21
-- Deals tagged on the site: 170 (69 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 171 (69 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
