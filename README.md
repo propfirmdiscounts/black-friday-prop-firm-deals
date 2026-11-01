@@ -11,12 +11,12 @@ The biggest verified Black Friday discount codes in the 2025 season are 90% OFF 
 | # | Prop firm | Exclusive code | Code discount (Current) | Latest Black Friday deal | Deal discount | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Funded Hero | PFD | 70% | Black Friday Deal: 60% OFF All Challenges | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 3 | Funding Traders | PFD | 70% | Black Friday Offer: 50% OFF + 100% Profit Split | 50% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 4 | Top One Futures | PFD | 60% | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 5 | Atlas Funded | PFD | 50% | 55% Off Challenges With BOGO This Black Friday | 55% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 6 | Earn2Trade | PFD | 50% | Black Friday Deal: 60% OFF Subscriptions + Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 7 | QT Funded | PFD | 50% | BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 2 | Funding Traders | PFD | 70% | Black Friday Offer: 50% OFF + 100% Profit Split | 50% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | Funded Hero | PFD | 62% | Black Friday Deal: 60% OFF All Challenges | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | QT Funded | PFD | 60% | BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 5 | Top One Futures | PFD | 60% | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 6 | Atlas Funded | PFD | 50% | 55% Off Challenges With BOGO This Black Friday | 55% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 7 | Earn2Trade | PFD | 50% | Black Friday Deal: 60% OFF Subscriptions + Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 8 | QT Futures | PFD | 50% | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | 9 | Blue Guardian Futures | PFD | 35% | Black Friday Sale: 60% OFF + BOGO Reward | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 10 | Goat Funded Trader | CSV | 35% | Black Friday Mega Sale: 50% OFF All Plans | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
