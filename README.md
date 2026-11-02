@@ -1,34 +1,24 @@
 # Black Friday Prop Firm Discount Codes (2026)
 
-As of 2026-09-21, 69 Black Friday deals from 36 prop firms are tracked, 66 of them published in the 2025 season. Every firm below carries a verified discount code that works any time.
+As of 2026-11-02, 70 Black Friday deals from 36 prop firms are tracked, 2 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
 
-**The Black Friday 2026 season is coming soon.** The last season that ran was 2025: 66 deals from 35 firms, published 2025-11-05 to 2025-11-30. 1 deal dated 2026 has been posted so far, and it is in the history below. Discount codes are not seasonal — every one below works today — and new 2026 Black Friday deals appear here as they are published, so check back for the lineup.
+The biggest verified Black Friday discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, and 65% OFF with code PFD at Top One Futures.
 
-The biggest verified Black Friday discount codes in the 2025 season are 90% OFF with code PFD at Upcomers, 80% OFF with code PFD at Blue Guardian, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, and 60% OFF with code PFD at Funded Hero.
-
-## Prop Firms with the Highest Discount Codes in Black Friday 2025
+## Prop Firms with the Highest Discount Codes in Black Friday 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 90% | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Funding Traders | PFD | 50% | Black Friday Offer: 50% OFF + 100% Profit Split | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-50-off-100-profit-split/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Funded Hero | PFD | 60% | Black Friday Deal: 60% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | QT Funded | PFD | 60% | BFCM Deal: 60% OFF Any Evaluation + Giveaway | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 5 | Top One Futures | PFD | 57% | Black Friday Sale: 57.5% OFF All Accounts + Bonus | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 6 | Atlas Funded | PFD | 50% | 55% Off Challenges With BOGO This Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-55-off-challenges-black-friday-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 7 | Earn2Trade | PFD | 60% | Black Friday Deal: 60% OFF Subscriptions + Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 8 | QT Futures | PFD | 50% | Black Friday Sale: 25% OFF Purchase & Activation | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
-| 9 | Blue Guardian Futures | PFD | 60% | Black Friday Sale: 60% OFF + BOGO Reward | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 10 | Goat Funded Trader | CSV | 35% | Black Friday Mega Sale: 50% OFF All Plans | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-50-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 1 | Upcomers | PFD | 90% | Black Friday 90% Off & Bonus Evaluations | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 
-The newest is **Black Friday 90% Off & Bonus Evaluations** from Upcomers — 90% off.
+The newest is **Up to 65% off bundles, Ignite and Elite** from Top One Futures — 65% off.
 
 - Event: Black Friday
-- Deals tracked: 69 (66 in 2025)
+- Deals tracked: 70 (2 in 2026)
 - Firms: 36
-- Firms with a code in the 2025 season: 35
-- Newest deal: 2026-09-21
-- Deals tagged on the site: 171 (69 of them from firms with a verified code, listed below)
+- Firms with a code in the 2026 season: 2
+- Newest deal: 2026-11-02
+- Deals tagged on the site: 175 (70 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -37,7 +27,7 @@ The newest is **Black Friday 90% Off & Bonus Evaluations** from Upcomers — 90%
 
 **What is the newest Black Friday prop firm deal?**
 
-**Black Friday 90% Off & Bonus Evaluations** from Upcomers — published 2026-09-21. Offer: 90% off. Offer has ended.
+**Up to 65% off bundles, Ignite and Elite** from Top One Futures — published 2026-11-02. Offer: 65% off. Offer ends: Limited time.
 
 **Do these firms have discount codes?**
 
@@ -45,18 +35,19 @@ Yes. Every one of the 36 firms listed here carries a verified discount code that
 
 **How much is off?**
 
-The newest deal is 90% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 65% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday deal history
 
-Total deals tracked: **69**
+Total deals tracked: **70**
 
-### 2026 (1 deal)
+### 2026 (2 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Top One Futures | Up to 65% off bundles, Ignite and Elite | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
 | 2026-09-21 | Upcomers | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
 
 ### 2025 (66 deals)

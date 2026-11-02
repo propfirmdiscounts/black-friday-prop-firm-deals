@@ -4,7 +4,7 @@ Black Friday prop firm deals and the discount codes of the firms that ran them.
 
 ## Dataset
 
-69 deals from 36 prop firms, newest 2026-09-21.
+70 deals from 36 prop firms, newest 2026-11-02.
 Each row states the deal, its dates, the firm's discount code, and where to redeem it.
 
 ## Links
