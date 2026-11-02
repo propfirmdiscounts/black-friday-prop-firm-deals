@@ -27,18 +27,18 @@ The biggest verified Black Friday discount codes in the 2025 season are 90% OFF 
 
 ## Prop Firms with the Highest Discount Codes in Black Friday 2025
 
-| # | Prop firm | Exclusive code | Code discount (Current) | Latest Black Friday deal | Deal discount | Expires | Firm page |
+| # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 90% | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Funding Traders | PFD | 70% | Black Friday Offer: 50% OFF + 100% Profit Split | 50% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Funded Hero | PFD | 62% | Black Friday Deal: 60% OFF All Challenges | 60% off | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
-| 4 | QT Funded | PFD | 60% | BFCM Deal: 60% OFF Any Evaluation + Giveaway | 60% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 5 | Top One Futures | PFD | 60% | Black Friday Sale: 57.5% OFF All Accounts + Bonus | 57% off | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 6 | Atlas Funded | PFD | 50% | 55% Off Challenges With BOGO This Black Friday | 55% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 7 | Earn2Trade | PFD | 50% | Black Friday Deal: 60% OFF Subscriptions + Resets | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 8 | QT Futures | PFD | 50% | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
-| 9 | Blue Guardian Futures | PFD | 35% | Black Friday Sale: 60% OFF + BOGO Reward | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 10 | Goat Funded Trader | CSV | 35% | Black Friday Mega Sale: 50% OFF All Plans | 50% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 1 | Upcomers | PFD | 90% | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 2 | Funding Traders | PFD | 50% | Black Friday Offer: 50% OFF + 100% Profit Split | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-50-off-100-profit-split/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
+| 3 | Funded Hero | PFD | 60% | Black Friday Deal: 60% OFF All Challenges | [View Deal](https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/) | Ended | https://propfirmdiscount.com/prop-firm/funded-hero/ |
+| 4 | QT Funded | PFD | 60% | BFCM Deal: 60% OFF Any Evaluation + Giveaway | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 5 | Top One Futures | PFD | 57% | Black Friday Sale: 57.5% OFF All Accounts + Bonus | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-friday-57-5-off-bonus/) | Ended | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 6 | Atlas Funded | PFD | 50% | 55% Off Challenges With BOGO This Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-55-off-challenges-black-friday-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 7 | Earn2Trade | PFD | 60% | Black Friday Deal: 60% OFF Subscriptions + Resets | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
+| 8 | QT Futures | PFD | 50% | Black Friday Sale: 25% OFF Purchase & Activation | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
+| 9 | Blue Guardian Futures | PFD | 60% | Black Friday Sale: 60% OFF + BOGO Reward | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
+| 10 | Goat Funded Trader | CSV | 35% | Black Friday Mega Sale: 50% OFF All Plans | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-50-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
 
 The newest is **Black Friday 90% Off & Bonus Evaluations** from Upcomers — 90% off.
 
@@ -192,11 +192,9 @@ links are appended after, in the order below.
 | `prop_firm` | Firm name. |
 | `prop_firm_slug` | Firm slug. |
 | `standing_code` | The firm's discount code. It works any time, has no end date, and is identical on every row of that firm because it belongs to the firm rather than to the dated deal on that row. |
-| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Current)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
+| `standing_discount` | The rate `standing_code` gives today: the code's own rate, not the rate of the dated deal on the same row. It is the `Code discount (Standing)` figure in the table above. A code keeps giving it after the deal beside it has expired. |
 | `activation_link` | Where to redeem `standing_code`. |
 | `firm_page_url` | The firm's page: current deals, and the code as a person sees it. |
-| `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
-| `code_state` | `standing` where `code` is present. |
 
 To state one of these offers: the code is `standing_code`, worth
 `standing_discount`, redeemed at `activation_link`. For a specific
