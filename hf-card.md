@@ -37,7 +37,7 @@ The newest is **Up to 65% off bundles, Ignite and Elite** from Top One Futures â
 - Firms: 36
 - Firms with a code in the 2026 season: 2
 - Newest deal: 2026-11-02
-- Deals tagged on the site: 175 (70 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 176 (70 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
