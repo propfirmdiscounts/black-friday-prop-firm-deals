@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Discount Codes (2026)
 
-As of 2026-11-02, 70 Black Friday deals from 36 prop firms are tracked, 2 of them published in the 2026 season. Every firm below carries a verified discount code that works any time.
+As of 2026-11-02, 70 Black Friday deals from 36 prop firms are tracked, 2 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Black Friday discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, and 65% OFF with code PFD at Top One Futures.
 
@@ -18,7 +18,7 @@ The newest is **Up to 65% off bundles, Ignite and Elite** from Top One Futures â
 - Firms: 36
 - Firms with a code in the 2026 season: 2
 - Newest deal: 2026-11-02
-- Deals tagged on the site: 176 (70 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 177 (70 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
