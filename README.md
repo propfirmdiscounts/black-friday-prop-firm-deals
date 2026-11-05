@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Discount Codes (2026)
 
-As of 2026-11-02, 70 Black Friday deals from 36 prop firms are tracked, 2 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-11-05, 71 Black Friday deals from 36 prop firms are tracked, 3 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Black Friday discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, and 65% OFF with code PFD at Top One Futures.
 
@@ -10,15 +10,16 @@ The biggest verified Black Friday discount codes in the 2026 season are 90% OFF 
 |---|---|---|---|---|---|---|---|
 | 1 | Upcomers | PFD | 90% | Black Friday 90% Off & Bonus Evaluations | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
+| 3 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 
-The newest is **Up to 65% off bundles, Ignite and Elite** from Top One Futures — 65% off.
+The newest is **Black Friday 40% Off Evaluations + Free Account** from Dominion Funding — 40% off.
 
 - Event: Black Friday
-- Deals tracked: 70 (2 in 2026)
+- Deals tracked: 71 (3 in 2026)
 - Firms: 36
-- Firms with a code in the 2026 season: 2
-- Newest deal: 2026-11-02
-- Deals tagged on the site: 177 (70 of them from firms with a verified code, listed below)
+- Firms with a code in the 2026 season: 3
+- Newest deal: 2026-11-05
+- Deals tagged on the site: 178 (71 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -27,7 +28,7 @@ The newest is **Up to 65% off bundles, Ignite and Elite** from Top One Futures �
 
 **What is the newest Black Friday prop firm deal?**
 
-**Up to 65% off bundles, Ignite and Elite** from Top One Futures — published 2026-11-02. Offer: 65% off. Offer ends: Limited time.
+**Black Friday 40% Off Evaluations + Free Account** from Dominion Funding — published 2026-11-05. Offer: 40% off. Offer ends: Limited time.
 
 **Do these firms have discount codes?**
 
@@ -35,18 +36,19 @@ Yes. Every one of the 36 firms listed here carries a verified discount code that
 
 **How much is off?**
 
-The newest deal is 65% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 40% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday deal history
 
-Total deals tracked: **70**
+Total deals tracked: **71**
 
-### 2026 (2 deals)
+### 2026 (3 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-05 | Dominion Funding | Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
 | 2026-11-02 | Top One Futures | Up to 65% off bundles, Ignite and Elite | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
 | 2026-09-21 | Upcomers | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
 

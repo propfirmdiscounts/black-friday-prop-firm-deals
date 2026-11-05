@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13161,
+    "prop_firm": "Dominion Funding",
+    "prop_firm_slug": "dominion-funding",
+    "title": "Black Friday 40% Off Evaluations + Free Account",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "All Evaluations, Every Program, Every Platform"
+    ],
+    "discount_value": "40%",
+    "standing_code": "PFD5PC",
+    "standing_discount": "5%",
+    "date_published": "2026-11-05",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/dominion-funding/",
+    "last_verified": "2026-11-05",
+    "activation_link": "https://propfirmdiscount.com/go/dominionfunding"
+  },
+  {
     "deal_id": 13117,
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
@@ -631,7 +651,7 @@
     ],
     "discount_value": "30%",
     "standing_code": "PFD",
-    "standing_discount": "10%",
+    "standing_discount": "20%",
     "date_published": "2025-11-24",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-30-off-prestige/",
@@ -1071,7 +1091,7 @@
     ],
     "discount_value": "20%",
     "standing_code": "PFD",
-    "standing_discount": "10%",
+    "standing_discount": "20%",
     "date_published": "2025-11-17",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-2025-sale-20-off/",
