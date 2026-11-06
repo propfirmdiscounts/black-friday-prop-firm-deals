@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: "blackfridaypropfirm"
+  HF_NAMESPACE: "prop-firm"
   EVENT_SLUG: "black-friday"
   EVENT_NAME: "Black Friday"
   REPO_NAME: "black-friday-prop-firm-deals"
