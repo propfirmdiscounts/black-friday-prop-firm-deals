@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Discount Codes (2026)
 
-As of 2026-11-05, 71 Black Friday deals from 36 prop firms are tracked, 3 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-11-06, 72 Black Friday deals from 36 prop firms are tracked, 4 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Black Friday discount codes in the 2026 season are 90% OFF with code PFD at Upcomers, and 65% OFF with code PFD at Top One Futures.
 
@@ -8,18 +8,18 @@ The biggest verified Black Friday discount codes in the 2026 season are 90% OFF 
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 90% | Black Friday 90% Off & Bonus Evaluations | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) | Ended | https://propfirmdiscount.com/prop-firm/upcomers/ |
+| 1 | Upcomers | PFD | 90% | Black Friday $99 Thunderbolt + 2 Free Accounts | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 3 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 
-The newest is **Black Friday 40% Off Evaluations + Free Account** from Dominion Funding — 40% off.
+The newest is **Black Friday $99 Thunderbolt + 2 Free Accounts** from Upcomers — 90% off.
 
 - Event: Black Friday
-- Deals tracked: 71 (3 in 2026)
+- Deals tracked: 72 (4 in 2026)
 - Firms: 36
 - Firms with a code in the 2026 season: 3
-- Newest deal: 2026-11-05
-- Deals tagged on the site: 178 (71 of them from firms with a verified code, listed below)
+- Newest deal: 2026-11-06
+- Deals tagged on the site: 179 (72 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -28,7 +28,7 @@ The newest is **Black Friday 40% Off Evaluations + Free Account** from Dominion 
 
 **What is the newest Black Friday prop firm deal?**
 
-**Black Friday 40% Off Evaluations + Free Account** from Dominion Funding — published 2026-11-05. Offer: 40% off. Offer ends: Limited time.
+**Black Friday $99 Thunderbolt + 2 Free Accounts** from Upcomers — published 2026-11-06. Offer: 90% off. Offer ends: Limited time.
 
 **Do these firms have discount codes?**
 
@@ -36,18 +36,19 @@ Yes. Every one of the 36 firms listed here carries a verified discount code that
 
 **How much is off?**
 
-The newest deal is 40% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
+The newest deal is 90% off. Standing discount codes among these firms run up to 90% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday deal history
 
-Total deals tracked: **71**
+Total deals tracked: **72**
 
-### 2026 (3 deals)
+### 2026 (4 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | Upcomers | Black Friday $99 Thunderbolt + 2 Free Accounts | 90% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) |
 | 2026-11-05 | Dominion Funding | Black Friday 40% Off Evaluations + Free Account | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) |
 | 2026-11-02 | Top One Futures | Up to 65% off bundles, Ignite and Elite | 65% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) |
 | 2026-09-21 | Upcomers | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
@@ -72,7 +73,7 @@ Total deals tracked: **71**
 | 2025-11-26 | Forexive | Black Friday Promo: 25% OFF + Free Reset Included | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-25-off-free-reset/) |
 | 2025-11-26 | Forexive | Black Friday: 50% OFF One, Two & Three-Step Models | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-50-off-evaluations/) |
 | 2025-11-26 | FundedNext Futures | Black Friday Sale: Special Legacy Prices + 15% Off Resets | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext-futures/fundednext-futures-black-friday-legacy-prices-reset-discount/) |
-| 2025-11-26 | Funding Traders | Black Friday Offer: 50% OFF + 100% Profit Split | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-50-off-100-profit-split/) |
+| 2025-11-26 | FundingTraders | Black Friday Offer: 50% OFF + 100% Profit Split | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-50-off-100-profit-split/) |
 | 2025-11-26 | QT Futures | Black Friday Sale: 25% OFF Purchase & Activation | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-futures-black-friday-25-off-activation/) |
 | 2025-11-25 | The5ers | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
 | 2025-11-25 | Trade The Pool | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
@@ -113,14 +114,14 @@ Total deals tracked: **71**
 | 2025-11-17 | Funding Your Trades | Black Friday Offer: 40% OFF All Models + BOGO | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-offer-40-off-bogo/) |
 | 2025-11-17 | Equity Edge | Black Friday — 50% OFF + Free Instant Account | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-early-black-friday-50-off-free-instant-account/) |
 | 2025-11-17 | Dominion Funding | Black Friday — 30% OFF All Accounts (Challenge & Instant Funding) | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-30-off-all-accounts/) |
-| 2025-11-17 | Funding Traders | Black Friday Finale — 50% OFF Pro & Instant (Novice Excluded) | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-finale-50-off-pro-instant-novice-excluded/) |
+| 2025-11-17 | FundingTraders | Black Friday Finale — 50% OFF Pro & Instant (Novice Excluded) | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-finale-50-off-pro-instant-novice-excluded/) |
 | 2025-11-15 | Goat Funded Trader | Black Friday 2025: 40% Off + 90% Profit Split | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-40-off-90-split/) |
-| 2025-11-13 | Funding Traders | Black Friday — 35% OFF + Free 90% Profit Split Add-On | 35% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-35-off-free-90-profit-split-addon/) |
+| 2025-11-13 | FundingTraders | Black Friday — 35% OFF + Free 90% Profit Split Add-On | 35% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-35-off-free-90-profit-split-addon/) |
 | 2025-11-10 | QT Funded | Black Friday — 60% OFF $1.25K QT INSTANT & $5K QT POWER (Ends Fri 23:59 UTC) | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-1-25k-qt-instant-5k-qt-power-ends-fri-2359-utc/) |
 | 2025-11-10 | QT Funded | Black Friday — 50% OFF $100K QT INSTANT (No Evaluation, Ends Fri 23:59 UTC) | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-100k-qt-instant-no-evaluation-ends-fri-2359-utc/) |
 | 2025-11-07 | TX3 Funding | Pre-Black Friday — 30% OFF Forex Challenges + 80% Profit Split & 100% Refund | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-pre-black-friday-30-off-forex-challenges-80-profit-split-100-refund/) |
 | 2025-11-07 | Upcomers | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) |
-| 2025-11-06 | Funding Traders | Black Friday — 30% OFF All Accounts (Nov 6–20) | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-30-off-all-accounts-nov-6-20/) |
+| 2025-11-06 | FundingTraders | Black Friday — 30% OFF All Accounts (Nov 6–20) | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-30-off-all-accounts-nov-6-20/) |
 | 2025-11-05 | Earn2Trade | Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025) | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-pre-sale-60-off-trader-career-path-ends-nov-16-2025/) |
 
 ### 2024 (2 deals)
