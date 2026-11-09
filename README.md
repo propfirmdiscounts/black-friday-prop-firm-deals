@@ -19,7 +19,7 @@ The newest is **Black Friday $99 Thunderbolt + 2 Free Accounts** from Upcomers â
 - Firms: 36
 - Firms with a code in the 2026 season: 3
 - Newest deal: 2026-11-06
-- Deals tagged on the site: 179 (72 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 181 (72 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
