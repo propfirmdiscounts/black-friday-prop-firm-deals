@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Discount Codes (2026)
 
-As of 2026-11-11, 74 Black Friday deals from 36 prop firms are tracked, 6 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
+As of 2026-11-12, 75 Black Friday deals from 36 prop firms are tracked, 7 of them published in the 2026 season. Every firm carries a verified discount code that works any time.
 
 The biggest verified Black Friday discount codes in the 2026 season are 93% OFF with code PFD at Upcomers, and 65% OFF with code PFD at Top One Futures.
 
@@ -11,16 +11,17 @@ The biggest verified Black Friday discount codes in the 2026 season are 93% OFF 
 | 1 | Upcomers | PFD | 93% | Black Friday Vol. 2: Up to 93% Off | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
 | 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
 | 3 | CK PropFirm | PFD | 10% | Black Friday: 80% Off Challenges | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Limited time | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 4 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 4 | ThinkCapital | PFD | 10% | 40% Off Everything - Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | 2026-11-29 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
+| 5 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
 
-The newest is **Black Friday: 80% Off Challenges** from CK PropFirm — 80% off.
+The newest is **40% Off Everything - Black Friday** from ThinkCapital — 40% off.
 
 - Event: Black Friday
-- Deals tracked: 74 (6 in 2026)
+- Deals tracked: 75 (7 in 2026)
 - Firms: 36
-- Firms with a code in the 2026 season: 4
-- Newest deal: 2026-11-11
-- Deals tagged on the site: 183 (74 of them from firms with a verified code, listed below)
+- Firms with a code in the 2026 season: 5
+- Newest deal: 2026-11-12
+- Deals tagged on the site: 187 (75 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
@@ -29,7 +30,7 @@ The newest is **Black Friday: 80% Off Challenges** from CK PropFirm — 80% off.
 
 **What is the newest Black Friday prop firm deal?**
 
-**Black Friday: 80% Off Challenges** from CK PropFirm — published 2026-11-11. Offer: 80% off. Offer ends: Limited time.
+**40% Off Everything - Black Friday** from ThinkCapital — published 2026-11-12. Offer: 40% off. Offer ends: 2026-11-29.
 
 **Do these firms have discount codes?**
 
@@ -37,18 +38,19 @@ Yes. Every one of the 36 firms listed here carries a verified discount code that
 
 **How much is off?**
 
-The newest deal is 80% off. Standing discount codes among these firms run up to 93% off, and every deal in the history below states its own figure.
+The newest deal is 40% off. Standing discount codes among these firms run up to 93% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday deal history
 
-Total deals tracked: **74**
+Total deals tracked: **75**
 
-### 2026 (6 deals)
+### 2026 (7 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | ThinkCapital | 40% Off Everything - Black Friday | 40% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) |
 | 2026-11-11 | CK PropFirm | Black Friday: 80% Off Challenges | 80% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) |
 | 2026-11-11 | Upcomers | Black Friday Vol. 2: Up to 93% Off | 93% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) |
 | 2026-11-06 | Upcomers | Black Friday $99 Thunderbolt + 2 Free Accounts | 90% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) |
