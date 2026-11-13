@@ -21,7 +21,7 @@ The newest is **40% Off Everything - Black Friday** from ThinkCapital — 40% of
 - Firms: 36
 - Firms with a code in the 2026 season: 5
 - Newest deal: 2026-11-12
-- Deals tagged on the site: 187 (75 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 188 (75 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
