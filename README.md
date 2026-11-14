@@ -22,7 +22,7 @@ The newest is **65% Off Everything - Early Bird** from Bullwaves Prime — 65% o
 - Firms: 38
 - Firms with a code in the 2026 season: 6
 - Newest deal: 2026-11-12
-- Deals tagged on the site: 188 (80 of them from firms with a verified code, listed below)
+- Deals tagged on the site: 189 (80 of them from firms with a verified code, listed below)
 - Event page: https://propfirmdiscount.com/tag/black-friday/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
