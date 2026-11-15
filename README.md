@@ -8,12 +8,12 @@ The biggest verified Black Friday discount codes in the 2026 season are 93% OFF 
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Upcomers | PFD | 93% | Black Friday Vol. 2: Up to 93% Off with code PFD | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) | Limited time | https://propfirmdiscount.com/prop-firm/upcomers/ |
-| 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite with code PFD | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | https://propfirmdiscount.com/prop-firm/top-one-futures/ |
-| 3 | Bullwaves Prime | PFD | 10% | 65% Off Everything - Early Bird | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) | 2026-11-15 18:59 | https://propfirmdiscount.com/prop-firm/bullwaves/ |
-| 4 | CK PropFirm | PFD | 10% | Black Friday: 80% Off Challenges | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Limited time | https://propfirmdiscount.com/prop-firm/ckcapital/ |
-| 5 | ThinkCapital | PFD | 10% | 40% Off Everything - Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | 2026-11-29 | https://propfirmdiscount.com/prop-firm/thinkcapital/ |
-| 6 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | https://propfirmdiscount.com/prop-firm/dominion-funding/ |
+| 1 | Upcomers | PFD | 93% | Black Friday Vol. 2: Up to 93% Off with code PFD | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) | Limited time | [https://propfirmdiscount.com/prop-firm/upcomers/](https://propfirmdiscount.com/prop-firm/upcomers/) |
+| 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite with code PFD | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | [https://propfirmdiscount.com/prop-firm/top-one-futures/](https://propfirmdiscount.com/prop-firm/top-one-futures/) |
+| 3 | Bullwaves Prime | PFD | 10% | 65% Off Everything - Early Bird | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/) | 2026-11-15 18:59 | [https://propfirmdiscount.com/prop-firm/bullwaves/](https://propfirmdiscount.com/prop-firm/bullwaves/) |
+| 4 | CK PropFirm | PFD | 10% | Black Friday: 80% Off Challenges | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Limited time | [https://propfirmdiscount.com/prop-firm/ckcapital/](https://propfirmdiscount.com/prop-firm/ckcapital/) |
+| 5 | ThinkCapital | PFD | 10% | 40% Off Everything - Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | 2026-11-29 | [https://propfirmdiscount.com/prop-firm/thinkcapital/](https://propfirmdiscount.com/prop-firm/thinkcapital/) |
+| 6 | Dominion Funding | PFD5PC | 5% | Black Friday 40% Off Evaluations + Free Account | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-black-friday-40-off-evaluations/) | Limited time | [https://propfirmdiscount.com/prop-firm/dominion-funding/](https://propfirmdiscount.com/prop-firm/dominion-funding/) |
 
 The newest is **65% Off Everything - Early Bird** from Bullwaves Prime — 65% off.
 
@@ -23,9 +23,10 @@ The newest is **65% Off Everything - Early Bird** from Bullwaves Prime — 65% o
 - Firms with a code in the 2026 season: 6
 - Newest deal: 2026-11-12
 - Deals tagged on the site: 190 (80 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/black-friday/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/black-friday-prop-firm-deals](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/black-friday/](https://propfirmdiscount.com/tag/black-friday/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## Black Friday prop firm deals FAQ
 
@@ -153,9 +154,9 @@ A deal is listed here because an editor tagged it for Black Friday on the site, 
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/black-friday/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/black-friday/](https://propfirmdiscount.com/tag/black-friday/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/black-friday-prop-firm-deals.json`
 
