@@ -28,7 +28,7 @@ The latest recorded Black Friday-tagged promotion is Klein Funding offering Buy 
 - Firms with a code in the 2026 season: 10
 - Newest deal: 2026-11-16
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 201 (86 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 202 (86 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
