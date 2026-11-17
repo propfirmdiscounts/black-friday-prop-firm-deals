@@ -1,5 +1,125 @@
 [
   {
+    "deal_id": 13251,
+    "prop_firm": "Klein Funding",
+    "prop_firm_slug": "klein-funding",
+    "title": "Buy 1 Evaluation, Get 2 Accounts",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "All Evaluations"
+    ],
+    "discount_value": "Free Half-Size",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/klein-funding/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/kleinfunding"
+  },
+  {
+    "deal_id": 13248,
+    "prop_firm": "Goat Funded Trader",
+    "prop_firm_slug": "goat-funded-trader",
+    "title": "50% Off Selected Plans, 7 Days",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Selected Plans"
+    ],
+    "discount_value": "50%",
+    "standing_code": "CSV",
+    "standing_discount": "35%",
+    "date_published": "2026-11-16",
+    "date_exp": "2026-11-23",
+    "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/goatfunded"
+  },
+  {
+    "deal_id": 13247,
+    "prop_firm": "Bullwaves Prime",
+    "prop_firm_slug": "bullwaves",
+    "title": "60% Off Plus BOGO After Payout",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Everything"
+    ],
+    "discount_value": "60%",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "date_published": "2026-11-16",
+    "date_exp": "2026-11-30",
+    "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/bullwaves"
+  },
+  {
+    "deal_id": 13244,
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "title": "60% Off Plus a Free Same-Size Account",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "All Plans"
+    ],
+    "discount_value": "60%",
+    "standing_code": "PFDDEAL",
+    "standing_discount": "50%",
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded"
+  },
+  {
+    "deal_id": 13243,
+    "prop_firm": "Funding Your Trades",
+    "prop_firm_slug": "funding-your-trades",
+    "title": "35% Off Plus BOGO Instantly",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Challenges"
+    ],
+    "discount_value": "35%",
+    "standing_code": "PFD",
+    "standing_discount": "2%",
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funding-your-trades/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/fundingyourtrades"
+  },
+  {
+    "deal_id": 13238,
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "title": "75% Off All Plans for Black Friday",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "All Plans"
+    ],
+    "discount_value": "75%",
+    "standing_code": "PFDDEAL",
+    "standing_discount": "50%",
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
+    "last_verified": "2026-11-16",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded"
+  },
+  {
     "deal_id": 13226,
     "prop_firm": "Bullwaves Prime",
     "prop_firm_slug": "bullwaves",
@@ -13,7 +133,7 @@
     "standing_code": "PFD",
     "standing_discount": "10%",
     "date_published": "2026-11-12",
-    "date_exp": "2026-11-15 18:59",
+    "date_exp": "2026-11-15 18:59 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-65-off-everything-black-friday/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullwaves/",
     "last_verified": "2026-11-12",
@@ -190,7 +310,7 @@
       "All Evaluation Models."
     ],
     "discount_value": "60%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-30",
     "date_exp": "Ended",
@@ -210,7 +330,7 @@
       "Any Evaluation (Including Qt Prime 2-Step)."
     ],
     "discount_value": "55%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-28",
     "date_exp": "Ended",
@@ -350,7 +470,7 @@
       "All Account Models And Sizes."
     ],
     "discount_value": "35%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-11-27",
     "date_exp": "Ended",
@@ -550,7 +670,7 @@
       "Evaluation Account Purchases And Activation."
     ],
     "discount_value": "25%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-26",
     "date_exp": "Ended",
@@ -650,7 +770,7 @@
       "Site-Wide (All Evaluation Models)."
     ],
     "discount_value": "30%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-11-25",
     "date_exp": "Ended",
@@ -890,7 +1010,7 @@
       "Challenge And Pro Accounts (For The Bonus Benefit)."
     ],
     "discount_value": "20%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-11-23",
     "date_exp": "Ended",
@@ -1030,7 +1150,7 @@
       "All Evaluation Accounts."
     ],
     "discount_value": "50%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-19",
     "date_exp": "Ended",
@@ -1250,7 +1370,7 @@
       "All Evaluation Accounts (Reward Triggered On Payout)"
     ],
     "discount_value": "Get a FREE Account",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-17",
     "date_exp": "Ended",
@@ -1450,7 +1570,7 @@
       "$1.25K Qt Instant & $5K Qt Power"
     ],
     "discount_value": "60%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-10",
     "date_exp": "Ended",
@@ -1470,7 +1590,7 @@
       "$100K Qt Instant"
     ],
     "discount_value": "50%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-11-10",
     "date_exp": "Ended",
