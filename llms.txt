@@ -3,7 +3,7 @@
 This dataset tracks every Black Friday deal published on PropFirmDiscount.com by a
 prop firm carrying a verified discount code.
 
-Deals tracked: 86 across 38 firms. Newest deal: 2026-11-16.
+Deals tracked: 89 across 38 firms. Newest deal: 2026-11-17.
 Every deal row carries that firm's discount code, which works any time.
 
 Event page: https://propfirmdiscount.com/tag/black-friday/
