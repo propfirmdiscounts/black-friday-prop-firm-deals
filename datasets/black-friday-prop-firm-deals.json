@@ -240,46 +240,6 @@
     "activation_link": "https://propfirmdiscount.com/go/ckcapital"
   },
   {
-    "deal_id": 13215,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Black Friday Vol. 2: Up to 93% Off with code PFD",
-    "event": "Black Friday",
-    "offer_type": "coupon",
-    "scope": [
-      "Accounts, 50K 2-Step Odyssey"
-    ],
-    "discount_value": "93%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2026-11-11",
-    "date_exp": "Limited time",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2026-11-11",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
-  },
-  {
-    "deal_id": 13166,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Black Friday $99 Thunderbolt + 2 Free Accounts with code PFD",
-    "event": "Black Friday",
-    "offer_type": "coupon",
-    "scope": [
-      "$100K Thunderbolt Challenge (1-Phase) At $99; $50K At $49; Two Extra Accounts Free"
-    ],
-    "discount_value": "90%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2026-11-06",
-    "date_exp": "Limited time",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2026-11-06",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
-  },
-  {
     "deal_id": 13161,
     "prop_firm": "Dominion Funding",
     "prop_firm_slug": "dominion-funding",
@@ -318,26 +278,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "last_verified": "2026-11-02",
     "activation_link": "https://propfirmdiscount.com/go/toponefutures"
-  },
-  {
-    "deal_id": 12806,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Black Friday 90% Off & Bonus Evaluations with code PFD",
-    "event": "Black Friday",
-    "offer_type": "coupon",
-    "scope": [
-      "Classic Challenge Accounts, New Customers"
-    ],
-    "discount_value": "90%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2026-09-21",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2026-09-21",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
   },
   {
     "deal_id": 9996,
@@ -1130,8 +1070,8 @@
       "Pro, Single Phase And Flex Accounts (All Sizes)."
     ],
     "discount_value": "35%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2025-11-22",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-sale/",
@@ -1158,6 +1098,26 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/top-one-futures/",
     "last_verified": "2025-11-21",
     "activation_link": "https://propfirmdiscount.com/go/toponefutures"
+  },
+  {
+    "deal_id": 9853,
+    "prop_firm": "SabioTrade",
+    "prop_firm_slug": "sabiotrade",
+    "title": "Black Friday Deal: Buy One Get One Free Account",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "All Evaluation Plans."
+    ],
+    "discount_value": "Buy 1 Get 1",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "date_published": "2025-11-21",
+    "date_exp": "Ended",
+    "post_url": "https://propfirmdiscount.com/deals/sabiotrade/sabiotrade-black-friday-bogo-deal/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/sabiotrade/",
+    "last_verified": "2025-11-21",
+    "activation_link": "https://propfirmdiscount.com/go/sabiotrade"
   },
   {
     "deal_id": 9840,
@@ -1670,34 +1630,14 @@
       "On All Forex Challenge Accounts"
     ],
     "discount_value": "30%",
-    "standing_code": "PFDC",
-    "standing_discount": "50%",
+    "standing_code": "PFD1",
+    "standing_discount": "25%",
     "date_published": "2025-11-07",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-pre-black-friday-30-off-forex-challenges-80-profit-split-100-refund/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/tx3-funding/",
     "last_verified": "2025-11-07",
     "activation_link": "https://propfirmdiscount.com/go/tx3funding"
-  },
-  {
-    "deal_id": 9601,
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "title": "Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 with code PFD",
-    "event": "Black Friday",
-    "offer_type": "coupon",
-    "scope": [
-      "On Eligible Accounts"
-    ],
-    "discount_value": "90%",
-    "standing_code": "PFD",
-    "standing_discount": "93%",
-    "date_published": "2025-11-07",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
-    "last_verified": "2025-11-07",
-    "activation_link": "https://propfirmdiscount.com/go/upcomers"
   },
   {
     "deal_id": 9578,
