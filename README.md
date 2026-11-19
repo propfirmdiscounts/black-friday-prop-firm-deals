@@ -8,8 +8,8 @@ As of November 2026, the biggest verified Black Friday discount codes in the 202
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | FundingTraders | PFD | 70% | Black Friday Up to 70% Off with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) | Limited time | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
-| 2 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite with code PFD | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | [Top One Futures Page](https://propfirmdiscount.com/prop-firm/top-one-futures/) |
+| 1 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite with code PFD | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | [Top One Futures Page](https://propfirmdiscount.com/prop-firm/top-one-futures/) |
+| 2 | FundingTraders | PFD | 70% | Black Friday Up to 70% Off with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) | Limited time | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
 | 3 | QT Funded | PFDDEAL | 50% | 60% Off Plus a Free Same-Size Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/) | Limited time | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
 | 4 | AquaFunded | PFD | 35% | Black Friday 35% Off | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) | Limited time | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 | 5 | Goat Funded Trader | CSV | 35% | 50% Off Selected Plans, 7 Days | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | 2026-11-23 | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
@@ -28,7 +28,7 @@ The latest recorded Black Friday-tagged promotion is TX3 Funding offering Black 
 - Firms with a code in the 2026 season: 13
 - Newest deal: 2026-11-19
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 206 (87 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 210 (87 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -43,11 +43,11 @@ This repository includes Black Friday-tagged deals from firms with a verified st
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 38 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 70% off with code PFD at FundingTraders. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 38 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 65% off with code PFD at Top One Futures. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 50% off. Standing discount codes among these firms run 70% off, and every deal in the history below states its own figure.
+The newest deal is 50% off. Standing discount codes among these firms run 65% off, and every deal in the history below states its own figure.
 
 ---
 
