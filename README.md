@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Deals & Discount Codes (2026)
 
-Explore Black Friday prop firm deals and discount codes from 38 proprietary trading firms, with 86 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Black Friday prop firm deals and discount codes from 38 proprietary trading firms, with 87 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Black Friday discount codes in the 2026 season are 70% OFF with code PFD at FundingTraders, and 65% OFF with code PFD at Top One Futures.
 
@@ -14,21 +14,21 @@ As of November 2026, the biggest verified Black Friday discount codes in the 202
 | 4 | AquaFunded | PFD | 35% | Black Friday 35% Off | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) | Limited time | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
 | 5 | Goat Funded Trader | CSV | 35% | 50% Off Selected Plans, 7 Days | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | 2026-11-23 | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 | 6 | Klein Funding | PFD | 30% | Buy 1 Evaluation, Get 2 Accounts | [View Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Limited time | [Klein Funding Page](https://propfirmdiscount.com/prop-firm/klein-funding/) |
-| 7 | Bullwaves Prime | PFD | 10% | 60% Off Plus BOGO After Payout | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/) | 2026-11-30 | [Bullwaves Prime Page](https://propfirmdiscount.com/prop-firm/bullwaves/) |
-| 8 | CK PropFirm | PFD | 10% | Black Friday: 80% Off Challenges | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Limited time | [CK PropFirm Page](https://propfirmdiscount.com/prop-firm/ckcapital/) |
-| 9 | FXIFY | FXIFY2WRIVW | 10% | Black Friday 35% Off | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) | 2026-12-09 23:59 | [FXIFY Page](https://propfirmdiscount.com/prop-firm/fxify/) |
-| 10 | ThinkCapital | PFD | 10% | 40% Off Everything - Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) | 2026-11-29 | [ThinkCapital Page](https://propfirmdiscount.com/prop-firm/thinkcapital/) |
+| 7 | TX3 Funding | PFD1 | 25% | Black Friday: 50% Off All | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | 2026-11-26 23:59 | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 8 | Bullwaves Prime | PFD | 10% | 60% Off Plus BOGO After Payout | [View Deal](https://propfirmdiscount.com/deals/bullwaves/bullwaves-prime-black-friday-go-big-60-off/) | 2026-11-30 | [Bullwaves Prime Page](https://propfirmdiscount.com/prop-firm/bullwaves/) |
+| 9 | CK PropFirm | PFD | 10% | Black Friday: 80% Off Challenges | [View Deal](https://propfirmdiscount.com/deals/ckcapital/ck-propfirm-black-friday-80-off-all-challenges/) | Limited time | [CK PropFirm Page](https://propfirmdiscount.com/prop-firm/ckcapital/) |
+| 10 | FXIFY | FXIFY2WRIVW | 10% | Black Friday 35% Off | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) | 2026-12-09 23:59 | [FXIFY Page](https://propfirmdiscount.com/prop-firm/fxify/) |
 
-The latest recorded Black Friday-tagged promotion is AquaFunded offering Black Friday 35% Off, published on November 17, 2026. Offer ends: Limited time.
+The latest recorded Black Friday-tagged promotion is TX3 Funding offering Black Friday: 50% Off All, published on November 19, 2026. Offer ends: 2026-11-26 23:59.
 
 - Event: Black Friday
-- Black Friday deals in this dataset: 86
+- Black Friday deals in this dataset: 87
 - Firms represented: 38
-- Deals published in 2026: 14
-- Firms with a code in the 2026 season: 12
-- Newest deal: 2026-11-17
+- Deals published in 2026: 15
+- Firms with a code in the 2026 season: 13
+- Newest deal: 2026-11-19
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 205 (86 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 206 (87 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -39,7 +39,7 @@ This repository includes Black Friday-tagged deals from firms with a verified st
 
 **What is the newest Black Friday prop firm deal?**
 
-**Black Friday 35% Off** from AquaFunded — published 2026-11-17. Offer: 35% off. Offer ends: Limited time.
+**Black Friday: 50% Off All** from TX3 Funding — published 2026-11-19. Offer: 50% off. Offer ends: 2026-11-26 23:59.
 
 **Do these firms have discount codes?**
 
@@ -47,18 +47,19 @@ Yes. Every one of the 38 firms listed here carries a verified discount code that
 
 **How much is off?**
 
-The newest deal is 35% off. Standing discount codes among these firms run 70% off, and every deal in the history below states its own figure.
+The newest deal is 50% off. Standing discount codes among these firms run 70% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday Prop Firm Deal History
 
-Total deals tracked: **86**
+Total deals tracked: **87**
 
-### 2026 Black Friday Deals (14 deals)
+### 2026 Black Friday Deals (15 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-19 | TX3 Funding | TX3 Funding: Black Friday: 50% Off All | 50% off | 2026-11-26 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) |
 | 2026-11-17 | AquaFunded | AquaFunded: Black Friday 35% Off | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) |
 | 2026-11-17 | FundingTraders | FundingTraders: Black Friday Up to 70% Off with code PFD | 70% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) |
 | 2026-11-17 | FXIFY | FXIFY: Black Friday 35% Off | 35% off | 2026-12-09 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-black-friday-35-off-all-programs/) |
