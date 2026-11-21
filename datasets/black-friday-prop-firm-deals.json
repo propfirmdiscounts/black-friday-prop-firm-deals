@@ -143,7 +143,7 @@
     "deal_id": 13270,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
-    "title": "Black Friday Up to 70% Off with code PFD",
+    "title": "Black Friday Up to 70% Off (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -363,7 +363,7 @@
     "deal_id": 13117,
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
-    "title": "Up to 65% off bundles, Ignite and Elite with code PFD",
+    "title": "Up to 65% off bundles, Ignite and Elite (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -683,7 +683,7 @@
     "deal_id": 9925,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
-    "title": "Black Friday Offer: 50% OFF + 100% Profit Split with code PFD",
+    "title": "Black Friday Offer: 50% OFF + 100% Profit Split (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -818,26 +818,6 @@
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/finotive-funding/",
     "last_verified": "2025-11-25",
     "activation_link": "https://propfirmdiscount.com/go/finotivefunding"
-  },
-  {
-    "deal_id": 9906,
-    "prop_firm": "Seacrest Markets",
-    "prop_firm_slug": "seacrest-markets",
-    "title": "Black Friday Deal: 30% Off + Triple Rewards",
-    "event": "Black Friday",
-    "offer_type": "coupon",
-    "scope": [
-      "All Account Sizes And Purchases."
-    ],
-    "discount_value": "30%",
-    "standing_code": "jackichun",
-    "standing_discount": "5%",
-    "date_published": "2025-11-25",
-    "date_exp": "Ended",
-    "post_url": "https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/seacrest-markets/",
-    "last_verified": "2025-11-25",
-    "activation_link": "https://propfirmdiscount.com/go/seacrestfunded"
   },
   {
     "deal_id": 10420,
@@ -983,7 +963,7 @@
     "deal_id": 9884,
     "prop_firm": "Blue Guardian Futures",
     "prop_firm_slug": "blue-guardian-futures",
-    "title": "Black Friday Sale: 60% OFF + BOGO Reward with code PFD",
+    "title": "Black Friday Sale: 60% OFF + BOGO Reward (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1003,7 +983,7 @@
     "deal_id": 9883,
     "prop_firm": "Blue Guardian",
     "prop_firm_slug": "blue-guardian",
-    "title": "Black Friday Sale: Up to 80% OFF + BOGO with code PFD",
+    "title": "Black Friday Sale: Up to 80% OFF + BOGO (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1103,7 +1083,7 @@
     "deal_id": 9947,
     "prop_firm": "Top One Futures",
     "prop_firm_slug": "top-one-futures",
-    "title": "Black Friday Sale: 57.5% OFF All Accounts + Bonus with code PFD",
+    "title": "Black Friday Sale: 57.5% OFF All Accounts + Bonus (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1243,7 +1223,7 @@
     "deal_id": 9808,
     "prop_firm": "Blue Guardian",
     "prop_firm_slug": "blue-guardian",
-    "title": "Black Friday Sale: 40% Off Promo Code with code PFD",
+    "title": "Black Friday Sale: 40% Off Promo Code (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1343,7 +1323,7 @@
     "deal_id": 9794,
     "prop_firm": "Funded Hero",
     "prop_firm_slug": "funded-hero",
-    "title": "Black Friday Deal: 60% OFF All Challenges with code PFD",
+    "title": "Black Friday Deal: 60% OFF All Challenges (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1363,7 +1343,7 @@
     "deal_id": 9793,
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
-    "title": "Black Friday Deal: 60% OFF Subscriptions + Resets with code PFD",
+    "title": "Black Friday Deal: 60% OFF Subscriptions + Resets (code PFD)",
     "event": "Black Friday",
     "offer_type": "deal",
     "scope": [
@@ -1503,7 +1483,7 @@
     "deal_id": 9774,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
-    "title": "Black Friday Finale — 50% OFF Pro & Instant (Novice Excluded) with code PFD",
+    "title": "Black Friday Finale — 50% OFF Pro & Instant (Novice Excluded) (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1583,7 +1563,7 @@
     "deal_id": 9714,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
-    "title": "Black Friday — 35% OFF + Free 90% Profit Split Add-On with code PFD",
+    "title": "Black Friday — 35% OFF + Free 90% Profit Split Add-On (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1663,7 +1643,7 @@
     "deal_id": 9578,
     "prop_firm": "FundingTraders",
     "prop_firm_slug": "fundingtraders",
-    "title": "Black Friday — 30% OFF All Accounts (Nov 6–20) with code PFD",
+    "title": "Black Friday — 30% OFF All Accounts (Nov 6–20) (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1683,7 +1663,7 @@
     "deal_id": 9542,
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
-    "title": "Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025) with code PFD",
+    "title": "Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025) (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
@@ -1723,7 +1703,7 @@
     "deal_id": 10895,
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
-    "title": "Black Friday 50% Discount on Challenge Pricing and Resets with code PFD",
+    "title": "Black Friday 50% Discount on Challenge Pricing and Resets (code PFD)",
     "event": "Black Friday",
     "offer_type": "coupon",
     "scope": [
