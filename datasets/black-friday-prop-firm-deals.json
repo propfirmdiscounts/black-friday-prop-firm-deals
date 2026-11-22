@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 13427,
+    "prop_firm": "Atlas Funded",
+    "prop_firm_slug": "atlas-funded",
+    "title": "40% Off Challenges Plus Fee Back",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Challenges"
+    ],
+    "discount_value": "40%",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "date_published": "2026-11-22",
+    "date_exp": "2026-11-23 18:59",
+    "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/atlas-funded/",
+    "last_verified": "2026-11-22",
+    "activation_link": "https://propfirmdiscount.com/go/atlasfunded"
+  },
+  {
+    "deal_id": 13311,
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "title": "35% Off $25K-$50K Accounts",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Accounts Of $25K-$50K"
+    ],
+    "discount_value": "35%",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "date_published": "2026-11-22",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/",
+    "last_verified": "2026-11-22",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus"
+  },
+  {
     "deal_id": 13422,
     "prop_firm": "Funding Your Trades",
     "prop_firm_slug": "funding-your-trades",
