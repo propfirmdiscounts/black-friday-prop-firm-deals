@@ -28,7 +28,7 @@ The latest recorded Black Friday-tagged promotion is Atlas Funded offering 40% O
 - Firms with a code in the 2026 season: 17
 - Newest deal: 2026-11-22
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 228 (91 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 230 (91 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
