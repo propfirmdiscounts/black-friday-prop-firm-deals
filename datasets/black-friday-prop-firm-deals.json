@@ -1,5 +1,85 @@
 [
   {
+    "deal_id": 13469,
+    "prop_firm": "AquaFunded",
+    "prop_firm_slug": "aquafunded",
+    "title": "40% Off, 200% Fee Refund Terms",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Every Account; Refund On Cfd Accounts"
+    ],
+    "discount_value": "40%",
+    "standing_code": "PFD",
+    "standing_discount": "35%",
+    "date_published": "2026-11-24",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/aquafunded/",
+    "last_verified": "2026-11-24",
+    "activation_link": "https://propfirmdiscount.com/go/aquafunded"
+  },
+  {
+    "deal_id": 13468,
+    "prop_firm": "Forexive",
+    "prop_firm_slug": "forexive",
+    "title": "$29 Challenge, Four Free Add-Ons",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "$5,000 Challenge"
+    ],
+    "discount_value": "$29",
+    "standing_code": "WHCTXQHRIG",
+    "standing_discount": "30%",
+    "date_published": "2026-11-24",
+    "date_exp": "Limited time",
+    "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/forexive/",
+    "last_verified": "2026-11-24",
+    "activation_link": "https://propfirmdiscount.com/go/forexive"
+  },
+  {
+    "deal_id": 13466,
+    "prop_firm": "Atlas Funded",
+    "prop_firm_slug": "atlas-funded",
+    "title": "45% Off Evaluations, 125% Fee Back",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Evaluations, Instant Zero"
+    ],
+    "discount_value": "45%",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "date_published": "2026-11-24",
+    "date_exp": "2026-11-26",
+    "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/atlas-funded/",
+    "last_verified": "2026-11-24",
+    "activation_link": "https://propfirmdiscount.com/go/atlasfunded"
+  },
+  {
+    "deal_id": 13464,
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "title": "40% Off Every Instant Funding Size",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Instant Funding Accounts, All Sizes"
+    ],
+    "discount_value": "40%",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "date_published": "2026-11-24",
+    "date_exp": "2026-11-25",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/",
+    "last_verified": "2026-11-24",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus"
+  },
+  {
     "deal_id": 13461,
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
