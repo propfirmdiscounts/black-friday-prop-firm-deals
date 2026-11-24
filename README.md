@@ -1,34 +1,34 @@
 # Black Friday Prop Firm Deals & Discount Codes (2026)
 
-Explore Black Friday prop firm deals and discount codes from 36 proprietary trading firms, with 91 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Black Friday prop firm deals and discount codes from 38 proprietary trading firms, with 102 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
-As of November 2026, the biggest verified Black Friday discount codes in the 2026 season are 70% OFF with code PFD at FundingTraders, and 65% OFF with code PFD at Top One Futures.
+As of November 2026, the biggest verified Black Friday discount codes in the 2026 season are 70% OFF with code PFD at FundingTraders, 70% OFF with code PFD at Top One Futures, and 35% OFF with code PFD at Blue Guardian.
 
 ## Prop Firms with the Highest Black Friday Discounts 2026
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Black Friday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Top One Futures | PFD | 65% | Up to 65% off bundles, Ignite and Elite (code PFD) | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-65-percent-off/) | Limited time | [Top One Futures Page](https://propfirmdiscount.com/prop-firm/top-one-futures/) |
-| 2 | Atlas Funded | PFD | 50% | 40% Off Challenges Plus Fee Back | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) | 2026-11-23 18:59 | [Atlas Funded Page](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
-| 3 | FundingTraders | PFD | 70% | Black Friday Up to 70% Off (code PFD) | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) | Limited time | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 1 | FundingTraders | PFD | 70% | Black Friday Up to 70% Off (code PFD) | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) | Limited time | [FundingTraders Page](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 2 | Top One Futures | PFD | 70% | Elite Access $39, Second Free (code PFD) | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) | 2026-11-30 | [Top One Futures Page](https://propfirmdiscount.com/prop-firm/top-one-futures/) |
+| 3 | Atlas Funded | PFD | 50% | 40% Off Challenges Plus Fee Back | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) | 2026-11-23 18:59 | [Atlas Funded Page](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
 | 4 | QT Funded | PFDDEAL | 50% | 60% Off Plus a Free Same-Size Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/) | Limited time | [QT Funded Page](https://propfirmdiscount.com/prop-firm/qt-funded/) |
 | 5 | AquaFunded | PFD | 35% | Black Friday 35% Off | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-black-friday-35-off-every-account/) | Limited time | [AquaFunded Page](https://propfirmdiscount.com/prop-firm/aquafunded/) |
-| 6 | Goat Funded Trader | CSV | 35% | 50% Off Selected Plans, 7 Days | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) | 2026-11-23 | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
-| 7 | Klein Funding | PFD | 30% | Buy 1 Evaluation, Get 2 Accounts | [View Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Limited time | [Klein Funding Page](https://propfirmdiscount.com/prop-firm/klein-funding/) |
-| 8 | PipFarm | PFDC | 30% | Buy One Get One Free + 25% | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/) | 2026-12-01 | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
-| 9 | TX3 Funding | PFD1 | 25% | Black Friday: 50% Off All | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) | 2026-11-26 23:59 | [TX3 Funding Page](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
-| 10 | Funded Trading Plus | PFD | 20% | 35% Off $25K-$50K Accounts | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/) | Limited time | [Funded Trading Plus Page](https://propfirmdiscount.com/prop-firm/funded-trading-plus/) |
+| 6 | Blue Guardian | PFD | 35% | 35% Off Everything This Black Friday (code PFD) | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) | 2026-11-30 18:59 | [Blue Guardian Page](https://propfirmdiscount.com/prop-firm/blue-guardian/) |
+| 7 | Goat Funded Trader | CSV | 35% | 55% Off Selected Plans to Nov 29 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) | 2026-11-29 | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
+| 8 | Klein Funding | PFD | 30% | Buy 1 Evaluation, Get 2 Accounts | [View Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) | Limited time | [Klein Funding Page](https://propfirmdiscount.com/prop-firm/klein-funding/) |
+| 9 | PipFarm | PFDC | 30% | Buy One Get One Free + 25% | [View Deal](https://propfirmdiscount.com/deals/pipfarm/pipfarm-black-friday-buy-one-get-one-free-25-off/) | 2026-12-01 | [PipFarm Page](https://propfirmdiscount.com/prop-firm/pipfarm/) |
+| 10 | WeMasterTrade | PFD | 30% | 29% Off All Packages, Nov 23-25 | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/) | 2026-11-25 | [WeMasterTrade Page](https://propfirmdiscount.com/prop-firm/wemastertrade/) |
 
-The latest recorded Black Friday-tagged promotion is Atlas Funded offering 40% Off Challenges Plus Fee Back, published on November 22, 2026. Offer ends: 2026-11-23 18:59.
+The latest recorded Black Friday-tagged promotion is Goat Funded Trader offering 55% Off Selected Plans to Nov 29, published on November 23, 2026. Offer ends: 2026-11-29.
 
 - Event: Black Friday
-- Black Friday deals in this dataset: 91
-- Firms represented: 36
-- Deals published in 2026: 24
-- Firms with a code in the 2026 season: 17
-- Newest deal: 2026-11-22
+- Black Friday deals in this dataset: 102
+- Firms represented: 38
+- Deals published in 2026: 35
+- Firms with a code in the 2026 season: 24
+- Newest deal: 2026-11-23
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 230 (91 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 252 (102 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -39,26 +39,37 @@ This repository includes Black Friday-tagged deals from firms with a verified st
 
 **What is the newest Black Friday prop firm deal?**
 
-**40% Off Challenges Plus Fee Back** from Atlas Funded — published 2026-11-22. Offer: 40% off. Offer ends: 2026-11-23 18:59.
+**55% Off Selected Plans to Nov 29** from Goat Funded Trader — published 2026-11-23. Offer: 55% off. Offer ends: 2026-11-29.
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 36 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 65% off with code PFD at Top One Futures. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 38 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 81% off with code PFD at FundingTraders. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 40% off. Standing discount codes among these firms run 65% off, and every deal in the history below states its own figure.
+The newest deal is 55% off. Standing discount codes among these firms run 81% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday Prop Firm Deal History
 
-Total deals tracked: **91**
+Total deals tracked: **102**
 
-### 2026 Black Friday Deals (24 deals)
+### 2026 Black Friday Deals (35 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Goat Funded Trader | Goat Funded Trader: 55% Off Selected Plans to Nov 29 | 55% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) |
+| 2026-11-23 | FundedNext | FundedNext: Buy One Stellar, Get One Free | BOGO | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/) |
+| 2026-11-23 | Top One Futures | Top One Futures: Elite Access $39, Second Free (code PFD) | 70% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) |
+| 2026-11-23 | WeMasterTrade | WeMasterTrade: 29% Off All Packages, Nov 23-25 | 29% off | 2026-11-25 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/) |
+| 2026-11-23 | Blue Guardian | Blue Guardian: 35% Off Everything This Black Friday (code PFD) | 35% off | 2026-11-30 18:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) |
+| 2026-11-23 | Instant Funding | Instant Funding: 35% Off Three Programs This Week | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/) |
+| 2026-11-23 | Finotive Futures | Finotive Futures: 60% Off Instant, 40% Off One Step | 60% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/) |
+| 2026-11-23 | Funded Elite | Funded Elite: Up to 60% Off Plus $1 Flash Entry | 60% off | 2026-11-30 18:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-elite/funded-elite-black-friday-up-to-60-off/) |
+| 2026-11-23 | For Traders | For Traders: 25% Off All Challenges | 25% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-25-off-all-challenges-black-friday/) |
+| 2026-11-23 | Finotive Funding | Finotive Funding: 65% Off Every Account | 65% off | 2026-12-04 17:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/) |
+| 2026-11-23 | Instant Funding | Instant Funding: 45% Off on Pro and Lite | 45% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-45-off-pro-and-lite/) |
 | 2026-11-22 | Atlas Funded | Atlas Funded: 40% Off Challenges Plus Fee Back | 40% off | 2026-11-23 18:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) |
 | 2026-11-22 | Funded Trading Plus | Funded Trading Plus: 35% Off $25K-$50K Accounts | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/) |
 | 2026-11-21 | Funding Your Trades | Funding Your Trades: 50% Off, Pay 2 Get 5 | 50% off | 2026-11-28 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-50-off-pay-2-get-5/) |
