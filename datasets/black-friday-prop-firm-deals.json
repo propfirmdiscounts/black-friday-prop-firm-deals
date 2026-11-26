@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13481,
+    "prop_firm": "Phoenix Trader Funding",
+    "prop_firm_slug": "phoenix-trader-funding",
+    "title": "40% Off Daily and Spark Challenges",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "Daily Challenges, Spark Challenges"
+    ],
+    "discount_value": "40%",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "date_published": "2026-11-25",
+    "date_exp": "2026-12-12 17:59",
+    "post_url": "https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/",
+    "last_verified": "2026-11-25",
+    "activation_link": "https://propfirmdiscount.com/go/phoenixtraderfunding"
+  },
+  {
     "deal_id": 13480,
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
@@ -153,7 +173,7 @@
     "standing_code": "PFD",
     "standing_discount": "20%",
     "date_published": "2026-11-24",
-    "date_exp": "2026-11-25",
+    "date_exp": "2026-11-25 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/",
     "last_verified": "2026-11-24",
@@ -233,7 +253,7 @@
     "standing_code": "PFD",
     "standing_discount": "30%",
     "date_published": "2026-11-23",
-    "date_exp": "2026-11-25",
+    "date_exp": "2026-11-25 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
     "last_verified": "2026-11-23",

@@ -1,6 +1,6 @@
 # Black Friday Prop Firm Deals & Discount Codes (2026)
 
-Explore Black Friday prop firm deals and discount codes from 39 proprietary trading firms, with 110 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Black Friday prop firm deals and discount codes from 40 proprietary trading firms, with 111 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Black Friday discount codes in the 2026 season are 90% OFF with code PFD at Phidias Propfirm, 70% OFF with code PFD at Earn2Trade, 70% OFF with code PFD at FundingTraders, 70% OFF with code PFD at Top One Futures, and 60% OFF with code PFD at Doji Funding.
 
@@ -19,16 +19,16 @@ As of November 2026, the biggest verified Black Friday discount codes in the 202
 | 9 | Blue Guardian | PFD | 35% | 35% Off Everything This Black Friday (code PFD) | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) | 2026-11-30 18:59 | [Blue Guardian Page](https://propfirmdiscount.com/prop-firm/blue-guardian/) |
 | 10 | Goat Funded Trader | CSV | 35% | 55% Off Selected Plans to Nov 29 | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) | 2026-11-29 | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 
-The latest recorded Black Friday-tagged promotion is Earn2Trade offering Black Week: Up to 70% Off Evaluations (code PFD), published on November 25, 2026. Offer ends: 2026-11-29.
+The latest recorded Black Friday-tagged promotion is Phoenix Trader Funding offering 40% Off Daily and Spark Challenges, published on November 25, 2026. Offer ends: 2026-12-12 17:59.
 
 - Event: Black Friday
-- Black Friday deals in this dataset: 110
-- Firms represented: 39
-- Deals published in 2026: 43
-- Firms with a code in the 2026 season: 29
+- Black Friday deals in this dataset: 111
+- Firms represented: 40
+- Deals published in 2026: 44
+- Firms with a code in the 2026 season: 30
 - Newest deal: 2026-11-25
 - GitHub repository: [Black Friday Deals Repository](https://github.com/propfirmdiscounts/black-friday-prop-firm-deals)
-- All Black Friday-tagged deals on the main site: 266 (110 of them from firms with a verified code, listed below)
+- All Black Friday-tagged deals on the main site: 267 (111 of them from firms with a verified code, listed below)
 - Event page: [Black Friday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/black-friday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -39,26 +39,27 @@ This repository includes Black Friday-tagged deals from firms with a verified st
 
 **What is the newest Black Friday prop firm deal?**
 
-**Black Week: Up to 70% Off Evaluations (code PFD)** from Earn2Trade — published 2026-11-25. Offer: 70% off. Offer ends: 2026-11-29.
+**40% Off Daily and Spark Challenges** from Phoenix Trader Funding — published 2026-11-25. Offer: 40% off. Offer ends: 2026-12-12 17:59.
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 39 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Phidias Propfirm. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 40 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 90% off with code PFD at Phidias Propfirm. The code is separate from the Black Friday offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
-The newest deal is 70% off. Standing discount codes among these firms run 90% off, and every deal in the history below states its own figure.
+The newest deal is 40% off. Standing discount codes among these firms run 90% off, and every deal in the history below states its own figure.
 
 ---
 
 ## Black Friday Prop Firm Deal History
 
-Total deals tracked: **110**
+Total deals tracked: **111**
 
-### 2026 Black Friday Deals (43 deals)
+### 2026 Black Friday Deals (44 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
+| 2026-11-25 | Phoenix Trader Funding | Phoenix Trader Funding: 40% Off Daily and Spark Challenges | 40% off | 2026-12-12 17:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-spark/) |
 | 2026-11-25 | Earn2Trade | Earn2Trade: Black Week: Up to 70% Off Evaluations (code PFD) | 70% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/) |
 | 2026-11-25 | Trade The Pool | Trade The Pool: 15% Off, Applied Automatically | 15% off | 2026-11-30 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-applied-automatically/) |
 | 2026-11-25 | Doji Funding | Doji Funding: Up to 60% Off Every Challenge (code PFD) | 60% off | 2026-11-29 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/) |
@@ -66,11 +67,11 @@ Total deals tracked: **110**
 | 2026-11-24 | AquaFunded | AquaFunded: 40% Off, 200% Fee Refund Terms | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-mega-sale-40-off-every-account/) |
 | 2026-11-24 | Forexive | Forexive: $29 Challenge, Four Free Add-Ons | $29 | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/) |
 | 2026-11-24 | Atlas Funded | Atlas Funded: 45% Off Evaluations, 125% Fee Back | 45% off | 2026-11-26 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) |
-| 2026-11-24 | Funded Trading Plus | Funded Trading Plus: 40% Off Every Instant Funding Size | 40% off | 2026-11-25 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) |
+| 2026-11-24 | Funded Trading Plus | Funded Trading Plus: 40% Off Every Instant Funding Size | 40% off | 2026-11-25 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) |
 | 2026-11-23 | Goat Funded Trader | Goat Funded Trader: 55% Off Selected Plans to Nov 29 | 55% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) |
 | 2026-11-23 | FundedNext | FundedNext: Buy One Stellar, Get One Free | BOGO | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundednext/fundednext-black-friday-buy-one-get-one-free/) |
 | 2026-11-23 | Top One Futures | Top One Futures: Elite Access $39, Second Free (code PFD) | 70% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/top-one-futures/top-one-futures-black-november-final-week/) |
-| 2026-11-23 | WeMasterTrade | WeMasterTrade: 29% Off All Packages, Nov 23-25 | 29% off | 2026-11-25 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/) |
+| 2026-11-23 | WeMasterTrade | WeMasterTrade: 29% Off All Packages, Nov 23-25 | 29% off | 2026-11-25 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-black-friday-29-off-all-packages/) |
 | 2026-11-23 | Blue Guardian | Blue Guardian: 35% Off Everything This Black Friday (code PFD) | 35% off | 2026-11-30 18:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) |
 | 2026-11-23 | Instant Funding | Instant Funding: 35% Off Three Programs This Week | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-three-programs/) |
 | 2026-11-23 | Finotive Futures | Finotive Futures: 60% Off Instant, 40% Off One Step | 60% off | 2026-11-30 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-black-friday-60-off-instant/) |
