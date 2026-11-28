@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13508,
+    "prop_firm": "BullRush Prop",
+    "prop_firm_slug": "bullrush",
+    "title": "Black Friday: 50% Off $5K-$50K Accounts",
+    "event": "Black Friday",
+    "offer_type": "coupon",
+    "scope": [
+      "$5K, $10K, $25K And $50K Accounts"
+    ],
+    "discount_value": "50%",
+    "standing_code": "7XTG8N",
+    "standing_discount": "5%",
+    "date_published": "2026-11-28",
+    "date_exp": "2026-11-29",
+    "post_url": "https://propfirmdiscount.com/deals/bullrush/bullrush-prop-black-friday-50-off-accounts/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/bullrush/",
+    "last_verified": "2026-11-28",
+    "activation_link": "https://propfirmdiscount.com/go/bullrush"
+  },
+  {
     "deal_id": 13507,
     "prop_firm": "Finotive Futures",
     "prop_firm_slug": "finotive-futures",
@@ -253,7 +273,7 @@
     "standing_code": "PFD",
     "standing_discount": "90%",
     "date_published": "2026-11-25",
-    "date_exp": "2026-11-27 17:00",
+    "date_exp": "2026-11-27 17:00 (ended)",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
     "last_verified": "2026-11-25",
@@ -1991,7 +2011,7 @@
     ],
     "discount_value": "60%",
     "standing_code": "PFD",
-    "standing_discount": "60%",
+    "standing_discount": "65%",
     "date_published": "2025-11-18",
     "date_exp": "Ended",
     "post_url": "https://propfirmdiscount.com/deals/funded-hero/funded-hero-black-friday-discount-60-off/",
